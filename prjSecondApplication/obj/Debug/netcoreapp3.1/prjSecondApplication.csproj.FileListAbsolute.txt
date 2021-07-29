@@ -1,0 +1,13 @@
+D:\ANJU\LTI\Training Study\Bootcamp Phase\Dot net\Day 2\prjSecondApplication\prjSecondApplication\bin\Debug\netcoreapp3.1\prjSecondApplication.exe
+D:\ANJU\LTI\Training Study\Bootcamp Phase\Dot net\Day 2\prjSecondApplication\prjSecondApplication\bin\Debug\netcoreapp3.1\prjSecondApplication.deps.json
+D:\ANJU\LTI\Training Study\Bootcamp Phase\Dot net\Day 2\prjSecondApplication\prjSecondApplication\bin\Debug\netcoreapp3.1\prjSecondApplication.runtimeconfig.json
+D:\ANJU\LTI\Training Study\Bootcamp Phase\Dot net\Day 2\prjSecondApplication\prjSecondApplication\bin\Debug\netcoreapp3.1\prjSecondApplication.runtimeconfig.dev.json
+D:\ANJU\LTI\Training Study\Bootcamp Phase\Dot net\Day 2\prjSecondApplication\prjSecondApplication\bin\Debug\netcoreapp3.1\prjSecondApplication.dll
+D:\ANJU\LTI\Training Study\Bootcamp Phase\Dot net\Day 2\prjSecondApplication\prjSecondApplication\bin\Debug\netcoreapp3.1\prjSecondApplication.pdb
+D:\ANJU\LTI\Training Study\Bootcamp Phase\Dot net\Day 2\prjSecondApplication\prjSecondApplication\obj\Debug\netcoreapp3.1\prjSecondApplication.csproj.AssemblyReference.cache
+D:\ANJU\LTI\Training Study\Bootcamp Phase\Dot net\Day 2\prjSecondApplication\prjSecondApplication\obj\Debug\netcoreapp3.1\prjSecondApplication.AssemblyInfoInputs.cache
+D:\ANJU\LTI\Training Study\Bootcamp Phase\Dot net\Day 2\prjSecondApplication\prjSecondApplication\obj\Debug\netcoreapp3.1\prjSecondApplication.AssemblyInfo.cs
+D:\ANJU\LTI\Training Study\Bootcamp Phase\Dot net\Day 2\prjSecondApplication\prjSecondApplication\obj\Debug\netcoreapp3.1\prjSecondApplication.csproj.CoreCompileInputs.cache
+D:\ANJU\LTI\Training Study\Bootcamp Phase\Dot net\Day 2\prjSecondApplication\prjSecondApplication\obj\Debug\netcoreapp3.1\prjSecondApplication.dll
+D:\ANJU\LTI\Training Study\Bootcamp Phase\Dot net\Day 2\prjSecondApplication\prjSecondApplication\obj\Debug\netcoreapp3.1\prjSecondApplication.pdb
+D:\ANJU\LTI\Training Study\Bootcamp Phase\Dot net\Day 2\prjSecondApplication\prjSecondApplication\obj\Debug\netcoreapp3.1\prjSecondApplication.genruntimeconfig.cache

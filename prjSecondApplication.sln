@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prjSecondApplication", "prjSecondApplication\prjSecondApplication.csproj", "{9F6262A6-DE78-44A7-B3E7-6FF62CEA561F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectionEg", "CollectionEg\CollectionEg.csproj", "{CAD23D92-B237-4567-8633-B57339486C3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F6262A6-DE78-44A7-B3E7-6FF62CEA561F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F6262A6-DE78-44A7-B3E7-6FF62CEA561F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F6262A6-DE78-44A7-B3E7-6FF62CEA561F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F6262A6-DE78-44A7-B3E7-6FF62CEA561F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAD23D92-B237-4567-8633-B57339486C3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAD23D92-B237-4567-8633-B57339486C3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAD23D92-B237-4567-8633-B57339486C3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAD23D92-B237-4567-8633-B57339486C3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2C164DE-B2DC-4237-A5CD-121FF1862582}
+	EndGlobalSection
+EndGlobal

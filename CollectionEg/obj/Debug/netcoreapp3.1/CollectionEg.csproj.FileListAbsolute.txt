@@ -1,0 +1,13 @@
+D:\ANJU\LTI\Training Study\Bootcamp Phase\Dot net\Day 2\prjSecondApplication\CollectionEg\bin\Debug\netcoreapp3.1\CollectionEg.exe
+D:\ANJU\LTI\Training Study\Bootcamp Phase\Dot net\Day 2\prjSecondApplication\CollectionEg\bin\Debug\netcoreapp3.1\CollectionEg.deps.json
+D:\ANJU\LTI\Training Study\Bootcamp Phase\Dot net\Day 2\prjSecondApplication\CollectionEg\bin\Debug\netcoreapp3.1\CollectionEg.runtimeconfig.json
+D:\ANJU\LTI\Training Study\Bootcamp Phase\Dot net\Day 2\prjSecondApplication\CollectionEg\bin\Debug\netcoreapp3.1\CollectionEg.runtimeconfig.dev.json
+D:\ANJU\LTI\Training Study\Bootcamp Phase\Dot net\Day 2\prjSecondApplication\CollectionEg\bin\Debug\netcoreapp3.1\CollectionEg.dll
+D:\ANJU\LTI\Training Study\Bootcamp Phase\Dot net\Day 2\prjSecondApplication\CollectionEg\bin\Debug\netcoreapp3.1\CollectionEg.pdb
+D:\ANJU\LTI\Training Study\Bootcamp Phase\Dot net\Day 2\prjSecondApplication\CollectionEg\obj\Debug\netcoreapp3.1\CollectionEg.csproj.AssemblyReference.cache
+D:\ANJU\LTI\Training Study\Bootcamp Phase\Dot net\Day 2\prjSecondApplication\CollectionEg\obj\Debug\netcoreapp3.1\CollectionEg.AssemblyInfoInputs.cache
+D:\ANJU\LTI\Training Study\Bootcamp Phase\Dot net\Day 2\prjSecondApplication\CollectionEg\obj\Debug\netcoreapp3.1\CollectionEg.AssemblyInfo.cs
+D:\ANJU\LTI\Training Study\Bootcamp Phase\Dot net\Day 2\prjSecondApplication\CollectionEg\obj\Debug\netcoreapp3.1\CollectionEg.csproj.CoreCompileInputs.cache
+D:\ANJU\LTI\Training Study\Bootcamp Phase\Dot net\Day 2\prjSecondApplication\CollectionEg\obj\Debug\netcoreapp3.1\CollectionEg.dll
+D:\ANJU\LTI\Training Study\Bootcamp Phase\Dot net\Day 2\prjSecondApplication\CollectionEg\obj\Debug\netcoreapp3.1\CollectionEg.pdb
+D:\ANJU\LTI\Training Study\Bootcamp Phase\Dot net\Day 2\prjSecondApplication\CollectionEg\obj\Debug\netcoreapp3.1\CollectionEg.genruntimeconfig.cache
